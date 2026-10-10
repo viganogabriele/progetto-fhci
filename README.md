@@ -53,7 +53,7 @@ Il nostro obiettivo è aiutare le persone a capire come un servizio usa i loro d
 
 | Cosa | File |
 | --- | --- |
-| Presentazione | [PDF](C1/presentazione/presentazione.pdf), [versione animata](C1/presentazione/presentazione_animata.html) |
+| Presentazione | [PDF](C1/presentazione/presentazione.pdf), [versione animata](https://viganogabriele.github.io/progetto-fhci/C1/presentazione/presentazione_animata.html) |
 | Survey (157 risposte) | [Excel](C1/extras/survey) |
 | Interviste (9 utenti e 1 esperto) | [trascrizioni anonime](C1/extras/interviste) |
 | Script delle interviste | [utenti](C1/extras/script_interviste/script-intervista.pdf), [esperto](C1/extras/script_interviste/script-intervista-esperto.pdf) |
