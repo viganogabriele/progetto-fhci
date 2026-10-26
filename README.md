@@ -59,6 +59,18 @@ Il nostro obiettivo è aiutare le persone a capire come un servizio usa i loro d
 | Script delle interviste | [utenti](C1/extras/script_interviste/script-intervista.pdf), [esperto](C1/extras/script_interviste/script-intervista-esperto.pdf) |
 | Consenso informato | [PDF](C1/extras/consenso/consenso-informato.pdf) |
 
+### C2: raffinamento e focus
+
+Il focus group approfondisce i bisogni emersi nella C1. Da questi derivano personas, scenari,
+soluzione, nome e proposta di valore di MyChoice.
+
+| Cosa | File |
+| --- | --- |
+| Presentazione | [PDF](C2/presentazione/presentazione.pdf), [versione animata](https://viganogabriele.github.io/progetto-fhci/C2/presentazione/presentazione_animata.html) |
+| Focus group | [Trascrizione anonima](C2/extras/focus_group/FocusGroup.pdf) |
+| Script del focus group | [PDF](C2/extras/script_focus_group/script-focus-group.pdf) |
+| Consenso informato | [PDF](C2/extras/consenso/consenso-informato.pdf) |
+
 ## Repository privata
 
 [`private`](private) è una repository separata (submodule) che usiamo noi del gruppo per la brutta e per tutto il resto che non pubblichiamo.
